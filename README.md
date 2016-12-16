@@ -1,7 +1,7 @@
 # ufop demo
 
 # 构建镜像
-进入该目录，然后运行：
+进入该目录，然后运行以下命令，获得名为 ufopdemo:v1 的 docker 镜像
 
 ```
 docker build -t "ufopdemo:v1" .
